@@ -4,7 +4,9 @@
   笔记内容仅供学习参考，未经允许，请勿用于任何商业用途。
 ---
 ##
-- *Atmospheric Science. An Introductory Survey* by John M. Wallace, John Michael Wallace, Peter V. Hobbs
+- Atmospheric Science. An Introductory Survey by John M. Wallace, John Michael Wallace, Peter V. Hobbs
 
 ## Atmospheric Boundary Layer (大气边界层)
-- [*Atmospheric Boundary Layer Flows* by J. C. KAIMAL and J. J. FINNICAN](Atmospheric-boundary-layer/Atmospheric-Boundary-Layer-Flows.pdf)
+- [Atmospheric Boundary Layer Flows by J. C. KAIMAL and J. J. FINNICAN](Atmospheric-boundary-layer/Atmospheric-Boundary-Layer-Flows.pdf)
+- [Turbulence in the Atmosphere by John C. Wyngaard]()
+- [Fundamentals of Fluid Mechanics, 6th Edition by Munson]()
