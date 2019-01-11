@@ -15,8 +15,13 @@
 
 
 ## (数值天气预报）
--
--
+- [数值天气预报的数学物理基础-1979-曾庆存](数值天气预报的数学物理基础-1979-曾庆存)
+- [长期数值天气预报（修订本）](长期数值天气预报（修订本）)
+- [数值模式中的谱方法](数值模式中的谱方法)
+- [数值预报与数值模拟方法-周任君博士](数值预报与数值模拟方法-周任君博士)
+- [数值模式中的谱方法](数值模式中的谱方法)
+- [Numerical-Weather-and-Climate-Prediction-2011](Numerical-Weather-and-Climate-Prediction-2011)
+- [Numerical methods for fluid dynamics With applications to geophysics](Numerical-methods-for-fluid-dynamics-With-applications-to-geophysics)
 
 ## （历史与故事）
 - [发现之旅系列-气象学](History-and-stories/发现之旅系列-气象学.pdf)
