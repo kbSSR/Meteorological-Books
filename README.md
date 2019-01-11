@@ -1,4 +1,4 @@
-# Meteorological-books
+# Meteorological-Books
 > 作者：[zhangzhe](https://philosopherz.github.io/)  
   邮件： zhangzhe@mail.iap.ac.cn & 1348729333@qq.com  
   笔记内容仅供学习参考，未经允许，请勿用于任何商业用途。
