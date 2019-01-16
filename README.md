@@ -4,6 +4,7 @@
   笔记内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。
   
 ---
+> 献给对大气科学感兴趣的年轻人
 
 ![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-RcaABOPyrnntT8hSVn8LiVk1JsDks5cRAEpwA%3D%3D)
 
