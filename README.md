@@ -10,6 +10,8 @@
 
   
 ## Atmospheric Physics（大气物理）
+- [C.-Donald-Ahrens-Meteorology-Today-9th-Edition](Atmospheric-physics/[C._Donald_Ahrens]_Meteorology_Today-9th-Edition.pdf)
+- [C.-Donald-Ahrens-Meteorology-Today-An Introduction to Weather, Climate, and the Environment(2018)](Atmospheric-physics/C.-Donald-Ahrens,-Robert-Henson-Meteorology-Today-An-Introduction-to-Weather,-Climate,-and-the-Environment-Cengage-Learning-(2018).pdf)
 - [Wallace-Hobbs-Atmospheric-Science]([Atmospheric-physics/Wallace-Hobbs-Atmospheric-science.pdf)
 - [大气物理学-盛裴轩](Atmospheric-physics/大气物理学-盛裴轩.pdf)
 - [大气科学概论-黄荣辉编](Atmospheric-physics/大气科学概论-黄荣辉编.pdf)
@@ -18,7 +20,8 @@
 - [大气辐射学基础](Atmospheric-physics/大气辐射学基础.pdf)
 - [大气辐射导论-廖国男-英文版](Atmospheric-physics/大气辐射导论-廖国男-英文版.pdf)
 - [The-Earth’s-Atmosphere](Atmospheric-physics/The-Earth’s-Atmosphere.pdf)
-
+- [](Atmospheric-physics/)
+- [](Atmospheric-physics/)
 
 
 
@@ -28,11 +31,22 @@
 - [Atmospheric Boundary Layer Flows by J. C. KAIMAL and J. J. FINNICAN](Atmospheric-boundary-layer/Atmospheric-Boundary-Layer-Flows.pdf)
 - [Turbulence in the Atmosphere by John C. Wyngaard](Atmospheric-boundary-layer/)
 - [Fundamentals of Fluid Mechanics, 6th Edition by Munson](Atmospheric-boundary-layer/)
+- [](Atmospheric-boundary-layer/)
+- [](Atmospheric-boundary-layer/)
+- [](Atmospheric-boundary-layer/)
+- [](Atmospheric-boundary-layer/)
+
 
 
 ## Meteorology（气象学）
 - []()
 - []()
+
+## Atmospheric-Dynamics (大气动力学)
+- []()
+
+
+## Weather-and-Climate （天气与气候）
 - []()
 - []()
 
@@ -47,8 +61,25 @@
 - []()
 - []()
 
+## Mathematical-Methods （数学方法）
+- [Statistical-methods-in-atmospheric-science-1995](Mathematical-Methods/Statistical-methods-in-atmospheric-science-1995.pdf)
+- [Statistical-methods-in-atmospheric-science-2011](Mathematical-Methods/Statistical-methods-in-atmospheric-science-2011.pdf)
+- [Time-Series-Analysis-in-Meteorology-and-Climatology-An-Introduction](Mathematical-Methods/Time-Series-Analysis-in-Meteorology-and-Climatology-An-Introduction.pdf)
+- [Statistical-Data-Analysis-for-Ocean-and-Atmospheric-Sciences](Mathematical-Methods/Statistical-Data-Analysis-for-Ocean-and-Atmospheric-Sciences.pdf)
+- [应用气象统计](Mathematical-Methods/应用气象统计.pdf)
+- [气象数据分析方法合集](Mathematical-Methods/气象数据分析方法合集.pdf)
+- [气象数据统计分析方法-黄嘉佑](Mathematical-Methods/气象数据统计分析方法-黄嘉佑.pdf)
+- [气象统计预报](Mathematical-Methods/气象统计预报.pdf)
+- [小波分析十讲](Mathematical-Methods/小波分析十讲.pdf)
+- [黄嘉佑气象统计分析与预报方法](Mathematical-Methods/黄嘉佑气象统计分析与预报方法.pdf)
+- [气象水文统计分析中显著性检验的应用](Mathematical-Methods/气象水文统计分析中显著性检验的应用.pdf)
+- [](Mathematical-Methods/)
+- [](Mathematical-Methods/)
+- [](Mathematical-Methods/)
+
+
 ## History and stories（历史与故事）
 - [发现之旅系列-气象学](History-and-stories/发现之旅系列-气象学.pdf)
 - [气象学-站在科学前沿的巨人-凯瑟林·库伦](History-and-stories/气象学-站在科学前沿的巨人-凯瑟林·库伦.pdf)
-- []()
-- []()
+- [StormWatcher](History-and-stories/StormWatcher.pdf)
+- [](History-and-stories/)
