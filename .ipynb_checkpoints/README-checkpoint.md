@@ -51,6 +51,12 @@
 - []()
 - []()
 
+## Geophysical-Fluid-Mechanics (地球物理流体力学)
+- [地球物理流体力学导论-王斌](Geophysical-Fluid-Mechanics/地球物理流体力学导论-王斌.pdf)
+- [地球物理流体动力学数学理论导论-弗里德兰德](Geophysical-Fluid-Mechanics/地球物理流体动力学数学理论导论-弗里德兰德.pdf)
+- [Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects(2011)](Geophysical-Fluid-Mechanics/Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects(2011).pdf)
+- [Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects](Geophysical-Fluid-Mechanics/Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects.pdf)
+
 
 ## Numerical weather prediction (数值天气预报）
 - [数值天气预报的数学物理基础-1979-曾庆存](Numerical-weather-prediction/数值天气预报的数学物理基础-1979-曾庆存.pdf)
@@ -61,6 +67,7 @@
 - [Numerical methods for fluid dynamics With applications to geophysics](Numerical-weather-prediction/Numerical-methods-for-fluid-dynamics-With-applications-to-geophysics.pdf)
 - []()
 - []()
+
 
 ## Mathematical-Methods （数学方法）
 - [Statistical-methods-in-atmospheric-science-1995](Mathematical-Methods/Statistical-methods-in-atmospheric-science-1995.pdf)
