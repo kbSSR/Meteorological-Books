@@ -94,3 +94,29 @@
 > 气象里那些牛人  
 
 - [](History-and-stories/)
+   
+
+## 补充
+该仓库保持随时更新。本人能力所限，了解的书籍资料和总结定有不足，再此极其强烈欢迎各位提出建议。  
+> 如果你有好的建议，请通知我。如果你有github账号，就在本仓库的 Issues 里提出来。如果没有，本人建议你可以申请一个，几分钟搞定，你可以在网上或知乎上搜一下github， 看它都能做什么，这个东西还是蛮有趣的也很有用。
+或者通过邮箱联系，或者微信。
+
+#### 很重要！很重要！很重要！
+
+如果你知道这里哪些书有新版本或者其他情况，可以通知我。
+如果你知道还有哪些好书需要增加，请在issues里说明或通知我！
+如果你有好书，可以分享到这里，欢迎 push!
+
+
+欢迎 push!  
+欢迎 push!  
+欢迎 push!
+
+喜欢就star❤️一下吧！
+
+
+## 和我交流
+
+| 二维码 |
+| --- |
+|![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/myWeChat-QRCode.jpg?token=Afj4-cJg9-qOeQ8Kz5NoXQgkhsOBQR7hks5cTFwFwA%3D%3D) |
