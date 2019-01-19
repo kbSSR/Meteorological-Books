@@ -21,9 +21,10 @@
 - [大气辐射学基础](Atmospheric-physics/大气辐射学基础.pdf)
 - [大气辐射导论-廖国男-英文版](Atmospheric-physics/大气辐射导论-廖国男-英文版.pdf)
 - [The-Earth’s-Atmosphere](Atmospheric-physics/The-Earth’s-Atmosphere.pdf)
+- [Studies-in-the-Atmospheric-Sciences](Atmospheric-physics/Studies-in-the-Atmospheric-Sciences.pdf)
+- [Recent-Progress-In-Atmospheric-Sciences-Applications-to-the-Asia-Pacific-Region](Atmospheric-physics/Recent-Progress-In-Atmospheric-Sciences-Applications-to-the-Asia-Pacific-Region.pdf)
 - [](Atmospheric-physics/)
 - [](Atmospheric-physics/)
-
 
 
 ## Atmospheric Boundary Layer (大气边界层)
