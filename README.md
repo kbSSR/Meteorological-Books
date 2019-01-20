@@ -39,18 +39,22 @@
 - [](Atmospheric-boundary-layer/)
 
 
-
-## Meteorology（气象学）
-- []()
-- []()
-
 ## Atmospheric-Dynamics (大气动力学)
-- []()
+- [动力气象学](Atmospheric-Dynamics/动力气象学.pdf)
+- [动力气象学-叶笃正](Atmospheric-Dynamics/动力气象学-叶笃正.pdf)
+- [大气科学中的数学物理问题-气象出版社](Atmospheric-Dynamics/大气科学中的数学物理问题-气象出版社.pdf)
+- [大气动力学_郭晓岚](Atmospheric-Dynamics/大气动力学_郭晓岚.pdf)
+- [大气动力学原理-小仓义光](Atmospheric-Dynamics/大气动力学原理-小仓义光.pdf)
+- [赤道大气动力学](Atmospheric-Dynamics/赤道大气动力学.pdf)
+- [Middle-Atmosphere-Dynamics](Atmospheric-Dynamics/Middle-Atmosphere-Dynamics.pdf)
+- [](Atmospheric-Dynamics/.pdf)
+- [](Atmospheric-Dynamics/.pdf)
+- [](Atmospheric-Dynamics/.pdf)
 
 
 ## Weather-and-Climate （天气与气候）
 - []()
-- []()
+
 
 ## Geophysical-Fluid-Mechanics (地球物理流体力学)
 - [地球物理流体力学导论-王斌](Geophysical-Fluid-Mechanics/地球物理流体力学导论-王斌.pdf)
