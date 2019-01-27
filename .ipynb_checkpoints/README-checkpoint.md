@@ -5,10 +5,9 @@
   
 ---
 
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-RcaABOPyrnntT8hSVn8LiVk1JsDks5cRAEpwA%3D%3D)
+![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-QNkFftwgie4MFGR29zDY04DRUd1ks5cVuZfwA%3D%3D)
 > 献给对大气科学感兴趣的年轻人  
 
-> [**如果你上传的书比较多，则你可能需要代码来批量编辑书名，否则请忽略此代码**](Python-code-to-edit-the-title/code.ipynb)
   
 ## Atmospheric Physics（大气物理）
 - [C.-Donald-Ahrens-Meteorology-Today-9th-Edition](Atmospheric-physics/[C._Donald_Ahrens]_Meteorology_Today-9th-Edition.pdf)
@@ -150,7 +149,6 @@
 - [发现之旅系列-气象学](History-and-stories/发现之旅系列-气象学.pdf)
 - [气象学-站在科学前沿的巨人-凯瑟林·库伦](History-and-stories/气象学-站在科学前沿的巨人-凯瑟林·库伦.pdf)
 - [StormWatcher](History-and-stories/StormWatcher.pdf)  
-
 - [](History-and-stories/)
    
 
@@ -177,4 +175,4 @@
 
 | 二维码 |
 | --- |
-|![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/myWeChat-QRCode.jpg?token=Afj4-cJg9-qOeQ8Kz5NoXQgkhsOBQR7hks5cTFwFwA%3D%3D) |
+|![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/myWeChat-QRCode.jpg?token=Afj4-a1d5pBGBVMRdfhepnQdJ8H500vkks5cVuYEwA%3D%3D) |
