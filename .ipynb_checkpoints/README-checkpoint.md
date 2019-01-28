@@ -1,12 +1,11 @@
 # [Meteorological-Books](https://github.com/PhilosopherZ/Meteorological-Books)
 > 作者：[zhangzhe](https://philosopherz.github.io/)  
   邮件： zhangzhe@mail.iap.ac.cn & 1348729333@qq.com  
-  笔记内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
+  本内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
   
 ---
 
 ![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-QNkFftwgie4MFGR29zDY04DRUd1ks5cVuZfwA%3D%3D)
-> 献给对大气科学感兴趣的年轻人  
 
   
 ## Atmospheric Physics（大气物理）
