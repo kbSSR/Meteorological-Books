@@ -1,7 +1,7 @@
-# Meteorological-Books
+# [Meteorological-Books](https://github.com/PhilosopherZ/Meteorological-Books)
 > 作者：[zhangzhe](https://philosopherz.github.io/)  
   邮件： zhangzhe@mail.iap.ac.cn & 1348729333@qq.com  
-  笔记内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。
+  笔记内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
   
 ---
 
@@ -30,9 +30,9 @@
 - [边界层气象学导论-Stull(完美版)](Atmospheric-boundary-layer/边界层气象学导论.pdf)
 - [An-Introduction-to-Boundary-Layer-Meteorology-Stull](Atmospheric-boundary-layer/An-Introduction-to-Boundary-Layer-Meteorology-Stull.pdf)
 - [Atmospheric Boundary Layer Flows by J. C. KAIMAL and J. J. FINNICAN](Atmospheric-boundary-layer/Atmospheric-Boundary-Layer-Flows.pdf)
-- [Turbulence in the Atmosphere by John C. Wyngaard](Atmospheric-boundary-layer/)
-- [Fundamentals of Fluid Mechanics, 6th Edition by Munson](Atmospheric-boundary-layer/)
-- [](Atmospheric-boundary-layer/)
+- [Turbulence in the Atmosphere by John C. Wyngaard](Atmospheric-boundary-layer/Turbulence-in-the-Atmosphere.pdf)
+- [Fundamentals of Fluid Mechanics, 6th Edition by Munson](Atmospheric-boundary-layer/Fundamentals-of-Fluid-Mechanics.pdf)
+- [Turbulent-Flows-Stephen-B.-Pope-Cornel-University](Atmospheric-boundary-layer/Turbulent-Flows-Stephen-B.-Pope-Cornel-University.pdf)
 - [](Atmospheric-boundary-layer/)
 - [](Atmospheric-boundary-layer/)
 - [](Atmospheric-boundary-layer/)
