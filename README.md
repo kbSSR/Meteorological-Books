@@ -5,7 +5,7 @@
   
 ---
 
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-QNkFftwgie4MFGR29zDY04DRUd1ks5cVuZfwA%3D%3D)
+![](image/Repository-layers-of-the-atmosphere.jpg)
 
   
 ## Atmospheric Physics（大气物理）
@@ -176,4 +176,4 @@
 
 | 二维码 |
 | --- |
-|![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/myWeChat-QRCode.jpg?token=Afj4-a1d5pBGBVMRdfhepnQdJ8H500vkks5cVuYEwA%3D%3D) |
+|![](image/myWeChat-QRCode.jpg) |
