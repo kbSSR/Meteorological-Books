@@ -141,10 +141,10 @@
 - [小波分析十讲](Mathematical-Methods/小波分析十讲.pdf)
 - [黄嘉佑气象统计分析与预报方法](Mathematical-Methods/黄嘉佑气象统计分析与预报方法.pdf)
 - [气象水文统计分析中显著性检验的应用](Mathematical-Methods/气象水文统计分析中显著性检验的应用.pdf)
+- [气象统计预报-施能](Mathematical-Methods/气象统计预报-施能.pdf)
 - [](Mathematical-Methods/)
 - [](Mathematical-Methods/)
 - [](Mathematical-Methods/)
-
 
 ## History and stories（历史与故事）
 - [发现之旅系列-气象学](History-and-stories/发现之旅系列-气象学.pdf)
