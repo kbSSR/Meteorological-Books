@@ -32,7 +32,7 @@
 - [Turbulence in the Atmosphere by John C. Wyngaard](Atmospheric-boundary-layer/Turbulence-in-the-Atmosphere.pdf)
 - [Fundamentals of Fluid Mechanics, 6th Edition by Munson](Atmospheric-boundary-layer/Fundamentals-of-Fluid-Mechanics.pdf)
 - [Turbulent-Flows-Stephen-B.-Pope-Cornel-University](Atmospheric-boundary-layer/Turbulent-Flows-Stephen-B.-Pope-Cornel-University.pdf)
-- [](Atmospheric-boundary-layer/)
+- [Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc (2010)](Atmospheric-boundary-layer/Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc (2010).pdf)
 - [](Atmospheric-boundary-layer/)
 - [](Atmospheric-boundary-layer/)
 
